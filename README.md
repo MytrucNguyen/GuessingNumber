@@ -1,4 +1,6 @@
-Live Demo:
+Live Demo At:
+
+https://mytrucnguyen.github.io/GuessingNumber/
 
 ![image](https://user-images.githubusercontent.com/80004058/125626883-e76079ac-14b4-45df-adc3-be393df07a52.png)
 
